@@ -14,7 +14,7 @@ To use `my_printf` in your C projects, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/my_printf.git
+git clone https://github.com/EnzoDubeaurepaire/my_printf.git
 ```
 
 2. Build the library:
